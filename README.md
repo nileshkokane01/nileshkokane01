@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Generative AI and multimodal techniques alongside LLM's and other cv algos.**
 
-- 👯 I’m looking to collaborate on [open source projects like](https://github.com/huggingface/transformers)
+- 👯 I’m looking to collaborate on [transformers](https://github.com/huggingface/transformers)
 
 - 🤝 I’m looking for help with **a platform that can give access to research oriented jobs**
 
@@ -22,7 +22,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/nileshkokane33" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nileshkokane33" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/blackeyed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="blackeyed" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/blackbriar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="blackbriar" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
