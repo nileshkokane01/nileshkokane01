@@ -1,9 +1,6 @@
 ### Hi there 👋
 
-<!--
-**nileshkokane01/nileshkokane01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+I'm Nilesh Kokane, a passionate researcher and developer in the field of Machine Learning, particularly focusing on computer vision and NLP applications.
 
 - 🔭 I’m currently working on Machine learning in computer vision applications
 - 🌱 I’m currently learning Multi-modal learning and LLM's
