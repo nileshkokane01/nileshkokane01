@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on [transformers](https://github.com/huggingface/transformers)
 
-- 🤝 I’m looking for help with **a platform that can give access to research oriented jobs**
+- 🤝 Seeking help with **a platform that can give access to research oriented jobs**
 
 - 👨‍💻 All of my projects are available at [https://github.com/nileshkokane01](https://github.com/nileshkokane01)
 
