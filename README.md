@@ -17,7 +17,7 @@
 
 - 💬 Ask me about **Generative AI, NLP and diffusion models.**
 
-- 📫 How to reach me **nilesh.kokane360@gmail.com**
+- 📫 You can reach out to me at :  **nilesh.kokane360@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
