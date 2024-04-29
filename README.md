@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Computer vision projects**
 
-- 🌱 My interest areas are **Generative AI and multimodal techniques alongside LLM's and other cv algos.**
+- 🌱 My interest areas are **Generative AI and multimodal learning alongside LLM's and other cv algos.**
 
 - 👯 I’m looking to collaborate on [transformers](https://github.com/huggingface/transformers)
 
