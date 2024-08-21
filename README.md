@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nilesh Kokane</h1>
+<h1 align="center">Hi 👋, I'm Nilesh</h1>
 <h3 align="center">Passionate of Generative AI and Machine learning.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nileshkokane01&label=Profile%20views&color=0e75b6&style=flat" alt="nileshkokane01" /> </p>
